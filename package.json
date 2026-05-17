@@ -70,6 +70,7 @@
 			"@types/react-dom": "^18.3.5",
 			"@kilocode/plugin>zod": "4.1.8",
 			"@opencode-ai/core>zod": "4.1.8",
+			"@zoo-code/cli>zod": "4.1.8",
 			"zod": "3.25.76"
 		}
 	}
